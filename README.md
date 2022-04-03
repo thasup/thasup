@@ -14,6 +14,7 @@ Key | Value
 
 <!--   GitHub stats graph -->
 ### 📈 Thasup's GitHub Activity:
+<img src="https://komarev.com/ghpvc/?username=thasup&label=Profile%20views&color=0e75b6&style=flat" alt="thasup" /> <a href="https://www.github.com/thasup" target="blank"><img src="https://img.shields.io/github/followers/thasup?label=Follow"></a> 
 
 <br/>
     <a href="https://github.com/thasup"><img alt="thasup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thasup&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
