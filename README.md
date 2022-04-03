@@ -13,14 +13,24 @@ Key | Value
 **Tools & Platform**  | ![Git Badge](https://img.shields.io/badge/Git-F9AB00?style=flat&logo=git&color=525252) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-151a1e?style=flat&logo=netlify&logoColor=00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thasup&hide_border=true&theme=redical)
+### 📈 Thasup's GitHub Activity:
 
- . | .
---- | --- 
-![thasup's github stats](https://github-readme-stats.vercel.app/api?username=thasup&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thasup&theme=radical&layout=compact)
+<br/>
+    <a href="https://github.com/thasup"><img alt="thasup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thasup&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasup&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thasup"></img>
+<br/>
+<br/>
+
+<a href="https://github.com/thasup"><img alt="thasup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thasup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/thasup">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thasup's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thasup&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 **📫 How to Reach me:**
