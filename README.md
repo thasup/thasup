@@ -5,7 +5,7 @@
 Key | Value
 --- | --- 
 **Language**  | ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![SCSS Badge](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-**Domain Knownledge**  | [![Mechanical Engineering Development Badge](https://img.shields.io/badge/-Mechanical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Web Development Badge](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
+**Domain Knownledge**  | ![Mechanical Engineering Development Badge](https://img.shields.io/badge/-Mechanical%20Engineering-4C8CBF?style=flat&logoColor=white) ![Web Development Badge](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white)
 **Framework / Library**  | ![React Badge](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=React&logoColor=black) ![Next Badge](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node Badge](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white) ![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Ant Design Badge](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white) ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 **CI / CD** | ![Github Action Badge](https://img.shields.io/badge/-Github_Action-181717?style=flat&logo=github&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GCP Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 **Database**  | ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-033430?style=flat&logo=mongodb&logoColor=00ed64)
@@ -25,7 +25,7 @@ Key | Value
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://thanachon.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="thanachon website" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/thanachon-supasatian-278292159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:thanachonfirst@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="hotmail" height="30" width="30" /></a>
+<a href="https://thanachon.me/" target="blank"><img align="center" src="./assets/globe-svgrepo-com.svg" alt="thanachon website" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/thanachon-supasatian-278292159/" target="blank"><img align="center" src="./assets/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:thanachonfirst@hotmail.com" target="blank"><img align="center" src="./assets/mail-svgrepo-com.svg" alt="hotmail" height="30" width="30" /></a>
 </p>
