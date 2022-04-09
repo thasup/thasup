@@ -11,10 +11,8 @@ Key | Value
 **Database**  | ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-033430?style=flat&logo=mongodb&logoColor=00ed64)
 **OS**  | ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 **Tools & Platform**  | ![Git Badge](https://img.shields.io/badge/Git-F9AB00?style=flat&logo=git&color=525252) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=flat&logo=webpack&logoColor=8DD6F9) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-151a1e?style=flat&logo=netlify&logoColor=00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![GCP Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-**Currently Learning**  | ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-**Wishlist**  | ![Flutter Badge](https://img.shields.io/badge/Flutter-2bb7f6?style=flat&logo=flutter&logoColor=white) ![VueJS](https://img.shields.io/badge/VueJS-213547?style=flat&logo=vuedotjs&logoColor=4FC08D) ![NuxtJS](https://img.shields.io/badge/NuxtJS-213547?style=flat&logo=nuxtdotjs&logoColor=00DC82)
-
-<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-1a73e8?style=flat&logo=firebase&logoColor=FFCA28) -->
+**Currently Learning**  | ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VueJS](https://img.shields.io/badge/VueJS-213547?style=flat&logo=vuedotjs&logoColor=4FC08D) ![NuxtJS](https://img.shields.io/badge/NuxtJS-213547?style=flat&logo=nuxtdotjs&logoColor=00DC82)
+**Wishlist**  | ![Flutter Badge](https://img.shields.io/badge/Flutter-2bb7f6?style=flat&logo=flutter&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-1a73e8?style=flat&logo=firebase&logoColor=FFCA28)
 
 <!--   GitHub stats graph -->
 ### 📈 Thasup's GitHub Activity:
