@@ -32,7 +32,7 @@ Key | Value
 <br/>
 <br/>
 
-<a href="https://github.com/thasup"><img alt="thasup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thasup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/thasup"><img alt="thasup's Activity Graph" src="https://github-readme-activity-graph.thasup.repl.co/graph?username=thasup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
