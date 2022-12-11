@@ -32,7 +32,7 @@ Key | Value
 <br/>
 <br/>
 
-<a href="https://github.com/thasup"><img alt="thasup's Activity Graph" src="https://github-readme-activity-graph.thasup.repl.co/graph?username=thasup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![thasup's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thasup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/thasup)
 
 <br/>
 
