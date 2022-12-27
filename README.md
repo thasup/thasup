@@ -1,6 +1,6 @@
 [![](https://www.dropbox.com/s/hprwdtoo7vs61vs/aurapan%20shop%20banner%201.jpg?raw=1)](https://www.aurapan.com/)
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Thanachon+Supasatian;+Welcome+to+My+Github+Profile!;A+Front-End+Engineer;A+Self-taught+Programmer;A+Former+Mechanical+Engineer;Who+Always+Keep+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Thanachon;+Welcome+to+My+Github+Profile!;A+Front-End+Engineer;A+Self-taught+Programmer;A+Former+Mechanical+Engineer;A+Hungry+Mind+Who+Always+Keep+Learning)](https://git.io/typing-svg)
 
 Key | Value
 --- | --- 
