@@ -46,10 +46,10 @@ Key | Value
 
 ## 📫 How to Reach me
 
-<a href="https://thanachon.me">
+<a href="https://thanachon.me" target="blank">
   <img src="https://img.shields.io/badge/about_me-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/thanachon-supasatian-278292159">
+<a href="https://www.linkedin.com/in/thanachon-supasatian-278292159" target="blank">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <!--
