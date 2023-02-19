@@ -2,6 +2,8 @@
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Thanachon;+Welcome+to+My+Github+Profile!;A+Front-End+Engineer;A+Self-taught+Programmer;A+Former+Mechanical+Engineer;A+Hungry+Mind+Who+Always+Keep+Learning)](https://git.io/typing-svg)
 
+## 🖥️ Tech Stack
+
 Key | Value
 --- | --- 
 **Language**  | [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)](https://docs.soliditylang.org/) [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -20,8 +22,8 @@ Key | Value
 [![GTM](https://img.shields.io/badge/GTM-246fdb?style=flat&logo=googletagmanager&logoColor=8ab4f8)](https://tagmanager.google.com/)
 -->
 
-<!--   GitHub stats graph -->
-### 📈 Thasup's GitHub Activity:
+## 📈 Contribution
+
 <img src="https://komarev.com/ghpvc/?username=thasup&label=Profile%20views&color=0e75b6&style=flat" alt="thasup" /> <a href="https://www.github.com/thasup" target="blank"><img src="https://img.shields.io/github/followers/thasup?label=Follow"></a> 
 
 <br/>
@@ -42,9 +44,16 @@ Key | Value
 </p>
 
 
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://thanachon.me/" target="blank"><img align="center" src="./assets/globe-svgrepo-com.svg" alt="thanachon website" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/thanachon-supasatian-278292159/" target="blank"><img align="center" src="./assets/linkedin-svgrepo-com.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:thanachonfirst@hotmail.com" target="blank"><img align="center" src="./assets/mail-svgrepo-com.svg" alt="hotmail" height="30" width="30" /></a>
-</p>
+## 📫 How to Reach me
+
+<a href="https://thanachon.me">
+  <img src="https://img.shields.io/badge/about_me-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/thanachon-supasatian-278292159">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<!--
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+-->
