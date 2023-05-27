@@ -1,6 +1,6 @@
 [![](https://www.dropbox.com/s/hprwdtoo7vs61vs/aurapan%20shop%20banner%201.jpg?raw=1)](https://www.aurapan.com/)
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Thanachon;+Welcome+to+My+Github+Profile!;A+Front-End+Engineer;A+Self-taught+Programmer;A+Former+Mechanical+Engineer;A+Hungry+Mind+Who+Always+Keep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+First;+Welcome+to+My+Github+Profile!;Front-End+Engineer;Self-taught+Programmer;Former+Mechanical+Engineer;Hungry+Mind+Who+Always+Keep+Learning)](https://git.io/typing-svg)
 
 ## 🖥️ Tech Stack
 
@@ -28,18 +28,18 @@ Key | Value
 
 <br/>
     <a href="https://github.com/thasup"><img alt="thasup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thasup&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasup&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasup&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
 
-[![thasup's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thasup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/thasup)
+[![thasup's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/thasup)
 
 <br/>
 
 <p align="center">
     <a href="https://github.com/thasup">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thasup's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thasup&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thasup's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thasup&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
