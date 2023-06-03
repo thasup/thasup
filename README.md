@@ -33,7 +33,7 @@ Key | Value
 <br/>
 <br/>
 
-[![thasup's github activity graph](https://thasup-github-activity-graph.onrender.com/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/thasup)
+[![thasup's github activity graph](https://suppee.shop/github-readme-activity-graph/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/thasup)
 
 <br/>
 
