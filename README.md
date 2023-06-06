@@ -1,5 +1,5 @@
 [![](https://www.dropbox.com/s/hprwdtoo7vs61vs/aurapan%20shop%20banner%201.jpg?raw=1)](https://www.aurapan.com/)
-    
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+First;+Welcome+to+My+Github+Profile!;Front-End+Engineer;Self-taught+Programmer;Former+Mechanical+Engineer;Hungry+Mind+Who+Always+Keep+Learning)](https://git.io/typing-svg)
 
 ## 🖥️ Tech Stack
@@ -13,9 +13,9 @@ Key | Value
 **Database**  | [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-033430?style=flat&logo=mongodb&logoColor=00ed64)](https://www.mongodb.com/)
 **OS**  | [![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/) [![Mac Badge](https://img.shields.io/badge/-macOS-6b6c6f?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 **Tools & Platform**  | [![Git Badge](https://img.shields.io/badge/Git-F9AB00?style=flat&logo=git&color=525252)](https://git-scm.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/) [![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)](https://gulpjs.com/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffce27)](https://vitejs.dev/) [![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=flat&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jirasoftware&logoColor=white)](https://www.atlassian.com/software/jira) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/) [![Netlify](https://img.shields.io/badge/Netlify-151a1e?style=flat&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/) [![Render](https://img.shields.io/badge/Render-black?style=flat&logo=render&logoColor=46E3B7)](https://render.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
-**Currently Learning**  | [![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)](https://devdocs.magento.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) [![OpenAI](https://img.shields.io/badge/-OpenAI_API-19c37d?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+**Currently Learning**  | [![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)](https://devdocs.magento.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) [![OpenAI](https://img.shields.io/badge/-OpenAI_API-19c37d?style=flat&logo=openai&logoColor=white)](https://openai.com/) [![Firebase](https://img.shields.io/badge/Firebase-1a73e8?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
 **On Hold**  | [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/) ![UX/UI Badge](https://img.shields.io/badge/🎨%20UX/UI%20Design-00adbc?style=flat)
-**Wishlist**  | [![Redis](https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=DC382D)](https://redis.io/)  [![Firebase](https://img.shields.io/badge/Firebase-1a73e8?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white)](https://www.apollographql.com/) [![Flutter](https://img.shields.io/badge/Flutter-2bb7f6?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)](https://circleci.com/) [![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+**Wishlist**  | [![Redis](https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=DC382D)](https://redis.io/) [![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white)](https://www.apollographql.com/) [![Flutter](https://img.shields.io/badge/Flutter-2bb7f6?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)](https://circleci.com/) [![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 <!--
 [![GCP Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/gcp/)
@@ -24,16 +24,32 @@ Key | Value
 
 ## 📈 Contribution
 
-<img src="https://komarev.com/ghpvc/?username=thasup&label=Profile%20views&color=0e75b6&style=flat" alt="thasup" /> <a href="https://www.github.com/thasup" target="blank"><img src="https://img.shields.io/github/followers/thasup?label=Follow"></a> 
+<img src="https://komarev.com/ghpvc/?username=thasup&label=Profile%20views&color=0e75b6&style=flat" alt="thasup's stats" />
+<img src="https://img.shields.io/github/followers/thasup?label=Follow" alt="thasup's follower number">
 
 <br/>
-    <a href="https://github.com/thasup"><img alt="thasup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thasup&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasup&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasup&theme=dracula" /></a>
+
+<p align="center">
+  <a href="https://github.com/thasup"><img alt="thasup's Top Languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thasup&theme=react" /></a>
+  <a href="https://github.com/thasup"><img alt="thasup's Top Languages by commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thasup&theme=react" /></a>
+</p>
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/thasup"><img alt="thasup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thasup&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasup&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
 <br/>
 
-[![thasup's github activity graph](https://suppee.shop/github-readme-activity-graph/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/thasup)
+<p align="center">
+  <a href="https://github.com/thasup">
+      <img title="thasup's github activity graph" alt="thasup's github activity graph" src="https://suppee.shop/github-readme-activity-graph/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+  </a>
+</p>
 
 <br/>
 
