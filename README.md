@@ -29,7 +29,9 @@ Key | Value
 
 <br/>
 
-<a href="https://github.com/thasup"><img alt="thasup's stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasup&theme=react" /></a>
+<p align="center">
+  <a href="https://github.com/thasup"><img alt="thasup's stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasup&theme=react" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/thasup"><img alt="thasup's Top Languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thasup&theme=react" /></a>
