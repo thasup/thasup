@@ -24,12 +24,12 @@ Key | Value
 
 ## 📈 Contribution
 
-<img src="https://komarev.com/ghpvc/?username=thasup&label=Profile%20views&color=0e75b6&style=flat" alt="thasup's stats" />
+<img src="https://komarev.com/ghpvc/?username=thasup&label=Profile%20views&color=0e75b6&style=flat" alt="thasup view" />
 <img src="https://img.shields.io/github/followers/thasup?label=Follow" alt="thasup's follower number">
 
 <br/>
 
-<a href="https://github.com/thasup"><img alt="thasup's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasup&theme=dracula" /></a>
+<a href="https://github.com/thasup"><img alt="thasup's stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasup&theme=react" /></a>
 
 <p align="center">
   <a href="https://github.com/thasup"><img alt="thasup's Top Languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thasup&theme=react" /></a>
