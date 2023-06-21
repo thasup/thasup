@@ -55,7 +55,7 @@ Key | Value
 <!-- Contribution Graph -->
 <p align="center">
   <a href="https://github.com/thasup">
-      <img title="thasup's github activity graph" alt="thasup's github activity graph" src="https://suppee.shop/github-readme-activity-graph/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+      <img title="thasup's github activity graph" alt="thasup's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thasup&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
   </a>
 </p>
 
